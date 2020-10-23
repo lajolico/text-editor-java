@@ -1,1 +1,1 @@
-text-editor-java
+Text editor written in Java
